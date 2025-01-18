@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am studying b.tech 3rd year
-[alt text] https://images.app.goo.gl/d84a34FRRrUixKHZ7
+[Alt text](https://images.app.goo.gl/d84a34FRRrUixKHZ7)
 
